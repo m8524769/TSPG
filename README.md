@@ -1,6 +1,6 @@
 # TSPG
 
-Test project for SPG back-end framework
+Spring Boot Template Project
 
 ## Getting Started
 
